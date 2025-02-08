@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100..900;1,100..900&family=IM+Fell+English+SC&family=Rye&display=swap');
+
+@import "tailwindcss";
+
+@theme {
+  --font-im-fell-english-sc: 'IM Fell English SC', sans-serif;
+  --font-rye: 'Rye', sans-serif;
+  --font-bitter: 'Bitter', sans-serif;
+}
